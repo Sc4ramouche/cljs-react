@@ -29,5 +29,6 @@ app.appendChild(create_button());
 
 - How do I restart REPL properly?
   - (require '[cljs-minimal.core :as cljs] :reload)
+- How do I properly setup REPL to watch the changes?
 - How `.setAttribute` is different from `!set` macro?
 - How does `goog.dom` and `goog.events` differ from the barebone DOM API in ClojureScript?
